@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# im currently working on this now so hold tight while i give it the offical ZFordDev polish i do with all my projects !
 <!--
 **ZFordDev/ZFordDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
