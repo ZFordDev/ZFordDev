@@ -6,42 +6,46 @@
   <p style="font-size:18px; margin-top:4px;">
     Founder‑Engineer • Systems Designer • Builder of Practical Tools with Vision
   </p>
+
+  <a href="https://zford.dev">
+    <strong>zford.dev</strong>
+  </a>
 </div>
 
 ---
 
 <!-- Intro -->
 <div align="center">
-  <p style="max-width:600px;">
-    I design and build software that is <strong>stable, reliable, and intentionally crafted</strong>, with a touch of flair.  
-    My work spans desktop apps, distributed systems concepts, and privacy‑first tooling — all built with a focus on clarity, maintainability, and real‑world usefulness.
+  <p style="max-width:650px;">
+    I build software that is <strong>stable, reliable, and intentionally crafted</strong>.  
+    My work spans desktop apps, distributed systems concepts, and privacy‑first tooling — all designed with clarity, maintainability, and real‑world usefulness in mind.
   </p>
 </div>
 
 ---
 
-## 🔧 What I Build
+## What I Build
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-  
-### 🖥️ Desktop Apps  
-NestKey, SnapDock, ZetoAI  
+
+### Desktop Apps  
+NestKey • SnapDock • ZetoAI
 
 </td>
 <td align="center" width="33%">
 
-### 🧩 Systems  
-TitanIX, distributed OS concepts  
+### Systems  
+TitanIX • Distributed OS Concepts
 
 </td>
 <td align="center" width="33%">
 
 ### 🛠 Tooling  
-ZetoLabs utilities & prototypes  
+ZetoLabs Utilities & Prototypes
 
 </td>
 </tr>
@@ -51,41 +55,40 @@ ZetoLabs utilities & prototypes
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- Building polished, stable portfolio projects  
+- Shipping polished, stable portfolio projects  
 - Documenting clean engineering practices  
-- Preparing for a move into cybersecurity / software engineering roles  
+- Preparing for cybersecurity / software engineering roles  
 - Writing the TitanIX architecture book & builder’s log  
-- Shipping ZetoAI as a desktop app and Phone app  
+- Releasing ZetoAI for Desktop and Phone  
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
-### 🔐 **NestKey — Offline Password Vault**
+### **NestKey — Offline Password Vault**
 A minimalist, encrypted password manager built with Electron.  
 Local‑only storage, PIN‑based encryption, and a clean UI.  
 ➡️ https://github.com/ZFordDev/NestKey
 
-### 🧠 **ZetoAI — Desktop AI Assistant**
+### **ZetoAI — Desktop AI Assistant**
 Privacy‑first, offline‑capable AI assistant with modular architecture.  
 (Currently in active development)
 
-### 📝 **SnapDock — Markdown Reader with File‑Tree Dock**
-SnapDock is a clean, modern Markdown reader and renderer featuring a collapsible file‑tree dock for navigating project folders.
-Designed for documentation, notes, and technical writing workflows.
-- Reads and renders  files
-- File‑tree sidebar for quick navigation
-- Smooth, distraction‑free reading experience
-- Dark/light theme
-- Built with Electron
-- Future support planned for PDF rendering
+### **SnapDock — Markdown Reader with File‑Tree Dock**
+A clean, modern Markdown reader designed for documentation and technical writing workflows.  
+- Renders Markdown files  
+- File‑tree sidebar for quick navigation  
+- Smooth, distraction‑free reading  
+- Dark/light themes  
+- Built with Electron  
+- Future PDF support planned  
 ➡️ https://github.com/ZFordDev/SnapDock
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 <div align="center">
 
@@ -104,9 +107,9 @@ Designed for documentation, notes, and technical writing workflows.
 
 ### Domains  
 - Encryption  
-- Desktop apps  
-- Distributed systems  
-- UI/UX   
+- Desktop Apps  
+- Distributed Systems  
+- UI/UX  
 
 </td>
 </tr>
@@ -116,9 +119,9 @@ Designed for documentation, notes, and technical writing workflows.
 
 ---
 
-## 📚 What I'm Building Toward
+## What I'm Building Toward
 
-I’m currently preparing for a move into **cybersecurity** and **software engineering**, with a focus on roles that value:
+I’m preparing for a move into **cybersecurity** and **software engineering**, with a focus on roles that value:
 
 - strong documentation  
 - clean architecture  
@@ -127,7 +130,7 @@ I’m currently preparing for a move into **cybersecurity** and **software engin
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
