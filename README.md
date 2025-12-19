@@ -4,7 +4,7 @@
   
   <h1 style="margin-bottom:0;">Zachary Ford</h1>
   <p style="font-size:18px; margin-top:4px;">
-    Founder‑Engineer • Systems Designer • Builder of Practical Tools with Vision
+    App Developer • Practical Engineering
   </p>
 
   <a href="https://zford.dev">
@@ -14,11 +14,10 @@
 
 ---
 
-<!-- Intro -->
 <div align="center">
   <p style="max-width:650px;">
-    I build software that is <strong>stable, reliable, and intentionally crafted</strong>.  
-    My work spans desktop apps, distributed systems concepts, and privacy‑first tooling — all designed with clarity, maintainability, and real‑world usefulness in mind.
+    I’m an app developer based in Queensland, Australia, focused on building <strong>clean, stable, and intentionally crafted software</strong>.  
+    After years of coding privately, I’m now taking my best work public — sharing polished tools, clear documentation, and practical engineering approaches.
   </p>
 </div>
 
@@ -33,19 +32,19 @@
 <td align="center" width="33%">
 
 ### Desktop Apps  
-NestKey • SnapDock • ZetoAI
+NestKey • SnapDock
 
 </td>
 <td align="center" width="33%">
 
-### Systems  
-TitanIX • Distributed OS Concepts
+### Systems & Concepts  
+TitanIX (early research)
 
 </td>
 <td align="center" width="33%">
 
-### 🛠 Tooling  
-ZetoLabs Utilities & Prototypes
+### Tools  
+Small utilities, prototypes, and workflow helpers
 
 </td>
 </tr>
@@ -57,11 +56,11 @@ ZetoLabs Utilities & Prototypes
 
 ## Current Focus
 
-- Shipping polished, stable portfolio projects  
-- Documenting clean engineering practices  
+- Publishing polished, stable portfolio projects  
+- Improving documentation and repo hygiene  
 - Preparing for cybersecurity / software engineering roles  
-- Writing the TitanIX architecture book & builder’s log  
-- Releasing ZetoAI for Desktop and Phone  
+- Exploring OS‑level concepts through TitanIX  
+- Building practical tools for everyday workflows  
 
 ---
 
@@ -72,19 +71,18 @@ A minimalist, encrypted password manager built with Electron.
 Local‑only storage, PIN‑based encryption, and a clean UI.  
 ➡️ https://github.com/ZFordDev/NestKey
 
-### **ZetoAI — Desktop AI Assistant**
-Privacy‑first, offline‑capable AI assistant with modular architecture.  
-(Currently in active development)
-
 ### **SnapDock — Markdown Reader with File‑Tree Dock**
-A clean, modern Markdown reader designed for documentation and technical writing workflows.  
+A clean, modern Markdown reader designed for documentation and technical writing.  
 - Renders Markdown files  
-- File‑tree sidebar for quick navigation  
-- Smooth, distraction‑free reading  
+- File‑tree sidebar  
+- Distraction‑free reading  
 - Dark/light themes  
-- Built with Electron  
-- Future PDF support planned  
 ➡️ https://github.com/ZFordDev/SnapDock
+
+333 **ZiaStudio — Local AI Workspace (Early Work)**
+A lightweight, privacy‑first environment for experimenting with local AI workflows.
+*(Currently in active development)*
+
 
 ---
 
@@ -98,18 +96,22 @@ A clean, modern Markdown reader designed for documentation and technical writing
 
 ### Languages  
 - JavaScript  
+- TypeScript  
 - Python  
 - Rust  
-- C++  
+- Bash  
+- HTML/CSS  
 
 </td>
 <td width="50%" valign="top">
 
 ### Domains  
-- Encryption  
-- Desktop Apps  
-- Distributed Systems  
-- UI/UX  
+- Full‑Stack Development  
+- Desktop App Development  
+- DevOps & Automation  
+- Encryption & Security Concepts  
+- Distributed Systems (early research)  
+- UI/UX & Frontend Architecture  
 
 </td>
 </tr>
@@ -119,14 +121,15 @@ A clean, modern Markdown reader designed for documentation and technical writing
 
 ---
 
-## What I'm Building Toward
+## What I'm Working Toward
 
-I’m preparing for a move into **cybersecurity** and **software engineering**, with a focus on roles that value:
+I’m building toward roles in **software engineering**, with a focus on:
 
 - strong documentation  
-- clean architecture  
+- clean, maintainable architecture  
 - privacy‑first design  
 - practical, stable engineering  
+- security‑minded development practices  
 
 ---
 
@@ -149,5 +152,5 @@ I’m preparing for a move into **cybersecurity** and **software engineering**, 
 ---
 
 <div align="center">
-  <sub>Crafted with intention • Powered by ZetoLabs</sub>
+  <sub>Building in public • Learning in the open</sub>
 </div>
