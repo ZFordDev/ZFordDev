@@ -1,3 +1,9 @@
+[![Website](https://img.shields.io/badge/Website-zford.dev-000000?style=flat-square)](https://zford.dev)
+[![Store](https://img.shields.io/badge/Store-staxdash.com-4CAF50?style=flat-square)](https://staxdash.com)
+[![Ko‑Fi](https://img.shields.io/badge/Support-KoFi-FF5E5B?style=flat-square)](https://ko-fi.com/zforddev)
+
+---
+
 <div align="center">
   <h1>ZFordDev</h1>
   <p><strong>Indie Developer • Systems Architect • Ecosystem Builder</strong><br>
@@ -60,3 +66,18 @@ If you’re building something interesting, I’d love to hear about it.
 <div align="center">
   <sub>Building tools that earn trust</sub>
 </div>
+
+---
+
+## Explore More
+
+[**zford.dev**](https://zford.dev) — the projects that shape the platform.  
+Not everything makes the cut, but everything matters.
+
+[**staxdash.com**](https://staxdash.com) — the storefront for all tools, big and small.  
+Clean, minimal, purpose‑built utilities.
+
+**Ko‑Fi** — support the work and help fuel the dream:  
+https://ko-fi.com/zforddev
+
+---
