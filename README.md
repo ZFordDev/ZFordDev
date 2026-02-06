@@ -12,11 +12,11 @@
 </div>
 
 ---
-
 ### What I'm Working On
-* **Desktop Apps:** [SnapDock](https://snapdock.app) • [NestKey](https://github.com/ZFordDev/NestKey/)
-* **Systems Experiments:** TitanIX (OS research) • [ZIA](https://github.com/ZFordDev/ZIA)
-* **SaaS:** StaxDash (creator & developer dashboards)
+* **Desktop Apps:** [SnapDock](https://snapdock.app) • SnapNotes (mobile companion)
+* **CLI Tools:** StaxPing (network diagnostics) • Temp_A1 (local file transfer)
+* **Utility Apps:** NoBrowse (website‑to‑desktop wrapper for Windows)
+* **Local Analytics:** MyStax (privacy‑first creator & developer dashboards)
 
 ---
 
@@ -28,16 +28,40 @@ A simple, focused Markdown workspace built for writing without distractions.
 
 ---
 
-### **ZIA** — *Local AI Infrastructure*
-A local‑only AI runtime designed for the ALX‑ZIA‑M1 hardware platform.  
-The public repo shows the prototype foundation; the full stack is ready for hardware rollout.
+#### **StaxPing** — *CLI Network Diagnostics*
+A lightweight command‑line tool for quick network checks, latency tests, and troubleshooting.
 
-➡️ https://github.com/ZFordDev/ZIA
+---
+
+#### **Temp_A1** — *Local File Transfer Utility*
+A tiny, fast tool for moving files across devices on the same network with zero setup.
+
+---
+
+#### **NoBrowse** — *Website → Desktop App Builder*
+A minimal wrapper that turns any website into a standalone Windows desktop app.
 
 ---
 
 ### Tech I Use
-I’m most comfortable in Python and JavaScript, and I’m actively moving more of my work into TypeScript and .NET. I use Rust where it makes sense, and I pick tools based on what the project actually needs.
+I prototype fast in Python, build most of my production work in JavaScript/TypeScript, and I’m steadily moving more of my ecosystem into Rust.
+
+Electron + JS has been a perfect pair for desktop apps, and Rust + Wry is becoming the future of my cross‑platform work. I pick tools based on what the project actually needs, but Rust is taking the lead for long‑term development.
+
+---
+
+### Community & Contributions
+I maintain a small ecosystem of tools, and I’m always happy to welcome contributors — whether you're fixing a small issue, testing a build, or exploring deeper architecture.
+
+If you want to get involved:
+- SnapDock has several curated **good first issues** and **help wanted** tasks  
+- Most are small, self‑contained, and beginner‑friendly  
+- Contributors who help with SnapDock LTS are welcome to join early discussions around SnapDock V3 when it becomes public
+
+You can browse open issues here:  
+👉 https://github.com/ZFordDev/SnapDock/issues
+
+If you’re new to open‑source, feel free to introduce yourself in an issue — I’m happy to guide you.
 
 ---
 
