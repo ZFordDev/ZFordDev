@@ -16,56 +16,63 @@
 </div>
 
 ---
-### What I'm Working On
-* **Desktop Apps:** [SnapDock](https://snapdock.app) • SnapNotes (mobile companion)
-* **CLI Tools:** StaxPing (network diagnostics) • Temp_A1 (local file transfer)
-* **Utility Apps:** NoBrowse (website‑to‑desktop wrapper for Windows)
-* **Local Analytics:** MyStax (privacy‑first creator & developer dashboards)
+
+## **🔧 What I'm Working On**
+
+- **SnapDock 3** — next‑generation rewrite (private development)  
+- **NestKey** — C++ password vault (CLI MVP in progress)
 
 ---
 
-### Featured Projects
+## **🌟 Featured Projects**
 
-#### **SnapDock** — *Minimal Markdown Workspace*
+### **SnapDock — Minimal Markdown Workspace**  
+
 A clean writing environment with a file‑tree and distraction‑free workflow.  
 > **Status:** Full Release | [snapdock.app](https://snapdock.app)
 
 ---
 
-#### **StaxPing** — *CLI Network Diagnostics*
-A lightweight command‑line tool for quick network checks, latency tests, and troubleshooting.
+### **ZiaStudio — AI Chat Desktop App**  
+
+A modern, theme‑driven AI chat app with modular backends and local AI support.  
+> **Status:** Public Beta (coming this week)
 
 ---
 
-#### **Temp_A1** — *Local File Transfer Utility*
-A tiny, fast tool for moving files across devices on the same network with zero setup.
+### **StaxPing — CLI Network Diagnostics**  
+
+A lightweight Rust tool for DNS, ping, HTTP checks, and quick troubleshooting.
 
 ---
 
-#### **NoBrowse** — *Website → Desktop App Builder*
-A minimal wrapper that turns any website into a standalone Windows desktop app.
+## **🛠 Micro Tools (StaxDash Utilities)**  
+
+Small, local‑first tools built for reliability and speed.
+
+- **Temp_A1** — zero‑setup local file transfer  
+- **NoBrowse** — turn any website into a Windows desktop app  
+- **SnapNotes** — mobile companion concept for SnapDock  
 
 ---
 
-### Tech I Use
-I prototype fast in Python, build most of my production work in JavaScript/TypeScript, and I’m steadily moving more of my ecosystem into Rust.
+## **💻 Tech I Use**
 
-Electron + JS has been a perfect pair for desktop apps, and Rust + Wry is becoming the future of my cross‑platform work. I pick tools based on what the project actually needs, but Rust is taking the lead for long‑term development.
+I prototype fast in Python, build production apps in JavaScript/TypeScript, and I’m steadily moving more of my ecosystem into Rust and C++.
+
+Electron + JS powers my desktop apps today.  
+Rust + Wry is the future of my cross‑platform work.
 
 ---
 
-### Community & Contributions
-I maintain a small ecosystem of tools, and I’m always happy to welcome contributors — whether you're fixing a small issue, testing a build, or exploring deeper architecture.
+## **🤝 Community & Contributions**
 
-If you want to get involved:
-- SnapDock has several curated **good first issues** and **help wanted** tasks  
-- Most are small, self‑contained, and beginner‑friendly  
-- Contributors who help with SnapDock LTS are welcome to join early discussions around SnapDock V3 when it becomes public
+I maintain a small ecosystem of tools and welcome contributors of all experience levels.
 
-You can browse open issues here:  
+SnapDock has curated **good first issues** and **help wanted** tasks.  
+Contributors to SnapDock LTS will be invited to early discussions for SnapDock 3.
+
 👉 https://github.com/ZFordDev/SnapDock/issues
-
-If you’re new to open‑source, feel free to introduce yourself in an issue — I’m happy to guide you.
 
 ---
 
