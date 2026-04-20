@@ -29,28 +29,26 @@ The next major piece of the SnapDock ecosystem.
 
 ---
 
+## 📘 **Core Tools (Actively Growing)**
+
+### **MathPlus — Clean Windows Calculator**
+A polished, Windows‑native calculator built for clarity and speed.  
+Now expanding with community contributions and new features.  
+> **Status:** Active • Community‑friendly
+
+### **SchedPlus — Simple, Extensible Scheduler**
+A teaching‑focused, open‑source scheduling tool built in public.  
+Designed for contributors, learners, and future cross‑platform packaging.  
+> **Status:** v0.1 Released • Growing fast
+
+---
+
 ## 🧭 **Supporting Tools**
 
 ### **StaxPing — Network Diagnostics**
 Rust‑powered CLI tool for DNS, ping, and HTTP checks.  
-> **Status:** Active
-
-### **NoBrowse — Minimal Browser Wrapper**
-A distraction‑free, privacy‑focused browser shell.  
-> **Status:** Experimental
-
----
-
-## 🛠 **Micro Tools (Selected)**
-
-Small, focused utilities that support workflows and test ideas.
-
-- **MathPlus** — clean Windows calculator  
-- **Coffee_HTML** — instant HTML preview  
-- **Coffee_PDF** — lightweight PDF viewer  
-- **TextClean** — polished text‑cleaning utility  
-
-(Older quick‑build tools have been retired to keep the ecosystem clean.)
+Lightweight, reliable, and part of the broader ecosystem.  
+> **Status:** Active (low‑noise maintenance)
 
 ---
 
@@ -61,10 +59,6 @@ Originally a SaaS platform; now discontinued.
 The domain + platform are available for sale.  
 > https://staxdash.com
 
-### **Thrift3 — Shelved**
-A future home for simple budgeting tools.  
-Will return only when several tools are ready.
-
 ---
 
 ## 🧩 **Tech I Use**
@@ -74,12 +68,27 @@ Electron powers today’s apps; Rust + Wry is the future of my cross‑platform 
 
 ---
 
+## 🌱 **Ecosystem Direction
+
+The next phase of my work focuses on:
+
+- **Contributing to other open‑source projects**
+- **Integrating SnapDock with major platforms**  
+  - Nextcloud app  
+  - Git/GitHub/Gitea integration  
+- **Growing a small, aligned contributor team**
+- **Building tools that interoperate instead of standing alone**
+- **Preparing the ecosystem for long‑term sustainability**
+
+---
+
 ## 🤝 **Community & Contributions**
 
-SnapDock and StaxPing are open‑source with curated issues for contributors.  
+SnapDock, MathPlus, and SchedPlus are open‑source with curated issues for contributors.  
 If you want to help shape the ecosystem, start here:
 
-👉 https://github.com/ZFordDev/SnapDock/issues
+👉 https://github.com/ZFordDev/SnapDock/issues  
+👉 https://github.com/ZFordDev/SchedPlus/issues
 
 ---
 
