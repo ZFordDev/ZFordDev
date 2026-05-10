@@ -4,6 +4,9 @@
   <img src="https://img.shields.io/badge/Focus-Local--First-78C2AD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Philosophy-Minimalist-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Build-Offline--First-white?style=for-the-badge" />
+  <a href="https://github.com/sponsors/ZFordDev">
+    <img src="https://img.shields.io/badge/Sponsor-%23ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
 </p>
 
 I build focused, local-first software. I believe tools should be **calm, predictable, and respect your machine.** No cloud lock-in, no unnecessary complexity—just stable software built to last.
