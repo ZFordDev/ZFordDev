@@ -27,9 +27,6 @@ I build focused, local-first software. I believe tools should be **calm, predict
 *   [**SchedPlus**](https://github.com/zforddev/schedplus) — A Python-driven scheduler for automated workflows.
 *   *More coming soon...*
 
-### 📡 The Wildcard
-*   [**StaxPing**](https://github.com/zforddev/staxping) — A dedicated personal passion project. A unique, unified interface for high-speed network diagnostics and clarity.
-
 ---
 
 ## 🏗️ Current Build Log
