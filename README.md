@@ -93,18 +93,6 @@ Disposable development environments and micro‑VM workflows for rapid testing a
 
 ---
 
-## Contract Development
-
-Alongside open‑source work, I also build private software solutions for businesses.
-
-### ZIA
-
-A proprietary operational platform developed for business clients, focused on automation, workflow orchestration, and intelligent routing.
-
-Some commercial projects remain private and are not published publicly.
-
----
-
 ## Project Standards
 
 As the number of projects grows, maintaining consistency becomes increasingly important.
@@ -121,6 +109,31 @@ All active projects follow a shared set of standards covering:
 
 See:  
 * [STANDARDS.md](./STANDARDS.md)
+
+---
+
+## Professional Work
+
+Alongside open-source development, I design and build custom software solutions for businesses.
+
+My work ranges from desktop applications and workflow automation to multi-system integrations, AI infrastructure, and operational tooling.
+
+### Selected Project: ZIA
+
+ZIA is a proprietary AI routing and compliance platform developed for business environments.
+
+The platform provides:
+
+- Multi-provider AI routing
+- Endpoint orchestration
+- Local and cloud model integration
+- Sensitive data scrubbing
+- Audit logging and compliance workflows
+- Centralised management of AI tooling
+
+Organisations connect their AI services through a central ZIA instance, allowing requests to be intelligently routed to the most appropriate endpoint based on workload requirements.
+
+While ZIA itself remains private, it represents the type of large-scale integration and operational software I am capable of delivering.
 
 ---
 
@@ -154,7 +167,21 @@ Every contribution helps improve the ecosystem and supports future development.
 
 ---
 
-Built in Australia.  
-Shaped by the open-source community.  
+## Contract Opportunities
+
+I am available for select contract and consulting engagements.
+
+Areas of interest include:
+
+* Desktop application development  
+* Local‑first and offline‑capable software  
+* Developer tooling and automation  
+* Systems design and architecture  
+* AI routing, orchestration, and operational automation  
+* Custom internal tools for small teams and businesses  
+* Lightweight productivity utilities  
+* Technical planning, prototyping, and feasibility work  
+
+For enquiries, please open a discussion or reach out directly.
 
 ---
