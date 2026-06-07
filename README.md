@@ -68,7 +68,7 @@ Repository: https://github.com/ZFordDev/SnapBoard
 
 ---
 
-### MathPlus
+### MathPlus — _(Scheduled for Deprecation)_
 A fast, lightweight calculator built in Rust using egui.  
 Repository: https://github.com/ZFordDev/MathPlus
 
