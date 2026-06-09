@@ -1,7 +1,7 @@
 # ZFordDev Ecosystem Standards
 
-> **Version 1.0.0**  
-> **Reviewed:** 2026‑06‑01
+> **Version 1.1.0**  
+> **Reviewed:** 2026‑06‑09
 
 ---
 
@@ -51,10 +51,6 @@ The `temp_notes.md` file:
 This was the first ecosystem-wide standard and remains one of the most useful.
 
 ---
-
-# Planned Standards
-
-The following standards have been defined and approved but may not yet be implemented across every repository.
 
 ## Repository Hygiene Standard
 
@@ -177,6 +173,107 @@ Every repository should provide a `SECURITY.md` file explaining:
 * Any project-specific security considerations
 
 Responsible disclosure benefits both maintainers and users and helps build trust within the ecosystem.
+
+---
+
+# Planned Standards
+
+The following standards have been defined and approved but may not yet be implemented across every repository.
+
+---
+
+## Merge & Review Discipline Standard *(New)*
+
+Solo‑maintained repositories carry a unique risk: the maintainer has full authority over development, review, and release. Without counter‑pressure, rushed decisions or time‑compressed work windows can lead to broken functionality being merged into `main`.
+
+To mitigate this, all ZFordDev repositories adopt a lightweight but strict merge discipline designed to simulate the safeguards of a multi‑developer team.
+
+---
+
+### Cooling Period Rule
+
+No pull request may be merged into `main` within **24 hours** of its creation.
+
+This delay provides:
+
+* A mental reset between writing and reviewing code  
+* A fresh perspective that catches mistakes missed during implementation  
+* A buffer against time‑pressure merges (e.g., end‑of‑session pushes)  
+* A simulated “second reviewer” effect for solo developers  
+
+The cooling period applies to all PRs, regardless of size or urgency, except for emergency hotfixes (see below).
+
+---
+
+### Full‑Functionality Testing Requirement
+
+Before any PR is approved for merge, the entire application must be tested in an isolated environment.
+
+Testing must verify:
+
+* Core navigation  
+* All major user flows  
+* Form submissions and validation  
+* State management and data persistence  
+* Build output and runtime behaviour  
+* Mobile and responsive behaviour (if applicable)  
+* Any logic adjacent to the modified code  
+
+This ensures that style rewrites, refactors, or isolated fixes do not unintentionally break unrelated functionality.
+
+Testing is not limited to the area changed — it covers the **entire app**.
+
+---
+
+### No End‑of‑Window Merges
+
+Pull requests may **not** be merged at the end of a work window.
+
+If a session is ending (e.g., early‑morning development before work), the PR must be left unmerged until the next session. This prevents rushed decisions caused by hard time cutoffs.
+
+If the clock is the reason to merge, the merge must not happen.
+
+---
+
+### Staging Branch Requirement
+
+All work must be merged into a **staging** branch before reaching `main`.
+
+Flow:
+
+```
+feature → staging → (24h delay + full testing) → main
+```
+
+The `main` branch must always represent a stable, production‑ready state.
+
+---
+
+### Emergency Hotfix Protocol
+
+In rare cases where a critical issue must be resolved immediately:
+
+* A hotfix branch may be created  
+* The fix must be isolated to the smallest possible change  
+* Full‑functionality testing is still required  
+* The cooling period may be bypassed only for the hotfix PR  
+* A post‑mortem note should be added to `temp_notes.md`  
+
+Hotfixes are exceptions, not workflow shortcuts.
+
+---
+
+### Purpose of This Standard
+
+This standard exists to:
+
+* Protect `main` from rushed or emotionally driven merges  
+* Provide structure for solo maintainers  
+* Reduce the risk of regressions during refactors or rewrites  
+* Maintain user trust and ecosystem stability  
+* Replace missing team review with process‑based safeguards  
+
+It is intentionally lightweight, but strict where it matters.
 
 ---
 
