@@ -169,7 +169,8 @@ Every contribution helps improve the ecosystem and supports future development.
 
 ## Contract Opportunities
 
-I am available for select contract and consulting engagements.
+<!-- I am available for select contract and consulting engagements. -->
+> **Current Status:** Under contract (SaaS Platform Development). Inquiries for future quarters welcome.
 
 Areas of interest include:
 
