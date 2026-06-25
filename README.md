@@ -62,13 +62,13 @@ Repository: https://github.com/ZFordDev/SnapDock
 
 ---
 
-### SnapBoard
+### SnapBoard — _(Archived)_
 A local‑first kanban board designed to integrate with the SnapDock ecosystem.  
 Repository: https://github.com/ZFordDev/SnapBoard
 
 ---
 
-### MathPlus — _(Scheduled for Deprecation)_
+### MathPlus — _(Archived)_
 A fast, lightweight calculator built in Rust using egui.  
 Repository: https://github.com/ZFordDev/MathPlus
 
@@ -139,11 +139,6 @@ While ZIA itself remains private, it represents the type of large-scale integrat
 
 ## Related Organisations
 
-### SnapDockStudio
-Future home of the SnapDock ecosystem and related applications.  
-* GitHub: https://github.com/SnapDockStudio  
-* Website: https://snapdock.app
-
 ### StaxDash
 A collection of lightweight sysadmin and developer tools.  
 * GitHub: https://github.com/StaxDash  
@@ -152,8 +147,6 @@ A collection of lightweight sysadmin and developer tools.
 ---
 
 ## Support
-
-All public projects are provided free under the MIT License.
 
 You can help by:
 
