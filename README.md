@@ -1,181 +1,40 @@
-<!-- ========================================================= -->
-<!-- ZFordDev -->
-<!-- ========================================================= -->
-
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/ZFordDev/ZFordDev/main/assets/standards-approved.svg" width="80" alt="ZFordDev Standards Approved Badge">
-    </td>
-  </tr>
-</table>
-
-[![Docs](https://img.shields.io/badge/DocsHub-docs.zford.dev-4F46E5?style=flat-square)](https://docs.zford.dev)
-![Status](https://img.shields.io/badge/Status-ACTIVE-4CAF50?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-4_and_growing-2196F3?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Australia-FFB300?style=flat-square)
-
 # ZFordDev
 
-Independent software developer building lightweight desktop applications, developer tools, and local‑first software.
+Hello all! I’ve recently changed direction and moved my active development to Codeberg.  
+I wanted to leave a clear explanation of why.
 
-Most projects are released under the MIT License and are designed around a simple philosophy:
+I started programming when I was 8 years old back in the early 2000s. A few years ago I decided to pursue development as a full career. With the modern rise of LLMs, I cast no shame on anyone who chooses to use them, but they’ve introduced issues in my workflow that I can no longer ignore. I’ll break this into three parts.
 
-> Useful.
-> Lightweight.
-> Understandable.
+## SnapDock
 
----
+SnapDock has been my passion project for four years. It began in Python, moved to JavaScript to speed up development, and I ran the repo like a maintainer.  
+All of its custom CSS was hand‑written by me, and the original v2 codebase was entirely my own work.
 
-## About
+As the project grew, we started receiving a large number of PRs. While they fixed the issues they targeted, many came with unnecessary rewrites, excessive complexity, and AI‑generated code layered over the original. The code worked, but I could no longer understand large parts of it, and that made future development difficult.
 
-ZFordDev is my personal development brand.
+SnapDock’s Electron era was always meant to be temporary: a prototype to define what I wanted a markdown editor to be. I believe SnapDock has reached the best form it can in Electron, and now I have the opportunity to build a new markdown editor in a native language like Python/PySide, with no AI involvement.
 
-I focus on creating practical software that solves real problems without unnecessary complexity, subscriptions, telemetry, or cloud dependencies.
+I want to thank everyone who contributed and helped shape the project. If anyone clones it and continues it, that’s fantastic, but I’m moving on from this chapter.
 
-My work spans desktop applications, developer tooling, experimental R&D, and private contract software.
+## Documentation
 
----
+My writing isn’t perfect. I make spelling mistakes and tend to be short and blunt.  
+All documentation in my repos and in DocsHub was written by me and then polished using an LLM. Every document still went through a full review to ensure accuracy, but I understand why some people felt the writing seemed “AI‑generated.”
 
-## Core Principles
+Moving forward, I’ll be publishing my original, un‑polished writing.
 
-Every project aims to follow the same values:
+## Hardware
 
-* Simple over clever  
-* Readable over abstract  
-* Local‑first where possible  
-* Minimal dependencies  
-* Fast startup times  
-* Long‑term maintainability  
-* Open development  
+The sudden popularity of LLMs has caused hardware prices to skyrocket. I need upgrades, and removing LLMs from my workflow is partly a protest. I also had a contract where I was told to “work faster” and was given more AI credits — but AI wasn’t the bottleneck. My development process includes extensive testing, and a 10‑minute compile time isn’t solved by more AI tokens.
 
-The goal is software that remains approachable years after it was written.
+So cutting AI from my workflow is my stance on the matter. I’m not against AI — I’m against paying $1k for basic RAM.
 
----
+## Final
 
-## Open Source Projects
-These projects represent the core of the ZFordDev ecosystem and receive active development and maintenance.
+Removing GitHub and VS Code from my workflow is a protest against the forced integration of AI into these platforms. I’ll be using Kate and Codeberg moving forward.
 
-### SnapDock
-A lightweight Markdown editor focused on clarity, stability, and distraction‑free writing.  
-Repository: https://github.com/ZFordDev/SnapDock
+Coding has been my passion since I was 8 years old, that isn’t going to stop. As a self‑taught developer, I recognise gaps in my knowledge, so to kick off my Codeberg journey I’ll be completing FreeCodeCamp certifications and projects. The initial repos will serve as proof of competence for my resume.
 
----
+I’ll still maintain my GitHub projects occasionally, but I plan to wind down development there and create new versions of those ideas on Codeberg.
 
-### SnapBoard — _(Archived)_
-A local‑first kanban board designed to integrate with the SnapDock ecosystem.  
-Repository: https://github.com/ZFordDev/SnapBoard
-
----
-
-### MathPlus — _(Archived)_
-A fast, lightweight calculator built in Rust using egui.  
-Repository: https://github.com/ZFordDev/MathPlus
-
----
-
-### SchedPlus
-A desktop scheduler focused on simplicity and local data ownership.  
-Repository: https://github.com/ZFordDev/SchedPlus
-
----
-
-## Research & Development
-
-Not every project becomes a product.  
-Some ideas remain experimental while concepts are tested and refined.
-
-### Vitra
-A hive‑synchronized clipboard fabric designed to propagate content across trusted devices while maintaining redundancy and availability.
-
-### DevSandbox
-Disposable development environments and micro‑VM workflows for rapid testing and isolated experimentation.
-
----
-
-## Project Standards
-
-As the number of projects grows, maintaining consistency becomes increasingly important.
-
-All active projects follow a shared set of standards covering:
-
-* Documentation  
-* Repository structure  
-* Versioning  
-* Issue templates  
-* Pull request workflows  
-* Release processes  
-* Security reporting  
-
-See:  
-* [STANDARDS.md](./STANDARDS.md)
-
----
-
-## Professional Work
-
-Alongside open-source development, I design and build custom software solutions for businesses.
-
-My work ranges from desktop applications and workflow automation to multi-system integrations, AI infrastructure, and operational tooling.
-
-### Selected Project: ZIA
-
-ZIA is a proprietary AI routing and compliance platform developed for business environments.
-
-The platform provides:
-
-- Multi-provider AI routing
-- Endpoint orchestration
-- Local and cloud model integration
-- Sensitive data scrubbing
-- Audit logging and compliance workflows
-- Centralised management of AI tooling
-
-Organisations connect their AI services through a central ZIA instance, allowing requests to be intelligently routed to the most appropriate endpoint based on workload requirements.
-
-While ZIA itself remains private, it represents the type of large-scale integration and operational software I am capable of delivering.
-
----
-
-## Related Organisations
-
-### StaxDash
-A collection of lightweight sysadmin and developer tools.  
-* GitHub: https://github.com/StaxDash  
-* Website: https://staxdash.com
-
----
-
-## Support
-
-You can help by:
-
-* Reporting bugs  
-* Suggesting improvements  
-* Contributing code  
-* Reviewing documentation  
-* Sharing projects with others  
-
-Every contribution helps improve the ecosystem and supports future development.
-
----
-
-## Contract Opportunities
-
-<!-- I am available for select contract and consulting engagements. -->
-> **Current Status:** Under contract (Fleet Management System). Inquiries for future quarters welcome.
-
-Areas of interest include:
-
-* Desktop application development  
-* Local‑first and offline‑capable software  
-* Developer tooling and automation  
-* Systems design and architecture  
-* AI routing, orchestration, and operational automation  
-* Custom internal tools for small teams and businesses  
-* Lightweight productivity utilities  
-* Technical planning, prototyping, and feasibility work  
-
-For enquiries, please open a discussion or reach out directly.
-
----
+Collaboration is always welcome, but I ask that you respect my **no‑AI policy** moving forward. Save your tokens for your own projects or your job.
