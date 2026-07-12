@@ -1,40 +1,60 @@
 # ZFordDev
 
-Hello all! I’ve recently changed direction and moved my active development to Codeberg.  
-I wanted to leave a clear explanation of why.
+Hi, I'm ZFordDev, 👋
+_Productivity developer._
 
-I started programming when I was 8 years old back in the early 2000s. A few years ago I decided to pursue development as a full career. With the modern rise of LLMs, I cast no shame on anyone who chooses to use them, but they’ve introduced issues in my workflow that I can no longer ignore. I’ll break this into three parts.
+## 🤔 About me
 
-## SnapDock
+I have been coding since I was 8 years old and recently decided (at 30 years old) that I would rather code than drive trucks. My work often includes Markdown in some form, and I naturally opt for writing in Markdown over a rich editor every time. 
 
-SnapDock has been my passion project for four years. It began in Python, moved to JavaScript to speed up development, and I ran the repo like a maintainer.  
-All of its custom CSS was hand‑written by me, and the original v2 codebase was entirely my own work.
+My son **TFordDev** will be working with me on some upcoming projects, so expect a lot of collaborations with him! He is 8 years old and is currently learning Python and basic HTML.
 
-As the project grew, we started receiving a large number of PRs. While they fixed the issues they targeted, many came with unnecessary rewrites, excessive complexity, and AI‑generated code layered over the original. The code worked, but I could no longer understand large parts of it, and that made future development difficult.
+## 🎓 Languages
+- **Languages:**
+  - Python,
+  - Rust,
+  - Go,
+  - JavaScript / TypeScript
 
-SnapDock’s Electron era was always meant to be temporary: a prototype to define what I wanted a markdown editor to be. I believe SnapDock has reached the best form it can in Electron, and now I have the opportunity to build a new markdown editor in a native language like Python/PySide, with no AI involvement.
+## 🐣 Projects
 
-I want to thank everyone who contributed and helped shape the project. If anyone clones it and continues it, that’s fantastic, but I’m moving on from this chapter.
+* **[SnapDock](https://github.com/ZFordDev/SnapDock)** – A minimalist Markdown editor. Long-term, stable, and not going anywhere. *(Active)*
+  * [Website](https://snapdock.app) | [Documentation](https://docs.snapdock.app)
 
-## Documentation
 
-My writing isn’t perfect. I make spelling mistakes and tend to be short and blunt.  
-All documentation in my repos and in DocsHub was written by me and then polished using an LLM. Every document still went through a full review to ensure accuracy, but I understand why some people felt the writing seemed “AI‑generated.”
+* **[Crafty-Snap](https://github.com/ZFordDev/Crafty-Snap)** – An automated Snapcraft generator that builds snap packages from your project’s metadata. *(Current favorite)*
+* **[SchedPlus](https://github.com/ZFordDev/SchedPlus)** – A simple Python scheduler app built with multiple UIs. An R&D project where I'm finding a practical angle.
+* **[KeyPlus](https://github.com/ZFordDev/keyplus)** – A password manager born entirely out of frustration.
 
-Moving forward, I’ll be publishing my original, un‑polished writing.
+Yeah, there are a lot of active projects right now. While SnapDock is my baseline, I’m constantly experimenting to find the next big thing. This means plenty of R&D—I don't really choose the projects, they choose themselves. Some will graduate, others will get archived.
 
-## Hardware
+## 🗺️ RoadMap!
+As a self-taught developer, I want to continuously push past my blind spots. In the age of AI, establishing deep foundational knowledge is the best way to stand out. Here is my active roadmap:
 
-The sudden popularity of LLMs has caused hardware prices to skyrocket. I need upgrades, and removing LLMs from my workflow is partly a protest. I also had a contract where I was told to “work faster” and was given more AI credits — but AI wasn’t the bottleneck. My development process includes extensive testing, and a 10‑minute compile time isn’t solved by more AI tokens.
+- **[UniSQ - Bachelor of Information Technology](https://www.unisq.edu.au/study/degrees-and-courses/bachelor-of-information-technology)**
+  - _Double Majors:_ Software Application Development & Networking and Cyber Security
+- **[Free Code Camp](https://www.freecodecamp.org/learn)**
+  - JavaScript Certification
+  - Python Certification
+  - Responsive Web Design Certification _(Optional)_
+  - Front-End Development Libraries Certification _(Optional)_
+  - Back-End Development and APIs Certification
+  - Relational Databases Certification
+  - Certified Full-Stack Developer Curriculum
+  - Foundational C# with Microsoft Certification _(Optional experiment)_
 
-So cutting AI from my workflow is my stance on the matter. I’m not against AI — I’m against paying $1k for basic RAM.
+_The next phase will target deeper architecture patterns in **Rust** and **Go**, followed by cloud infrastructure and DevOps specializations._
 
-## Final
+## 🤜🤛 Collaboration
 
-Removing GitHub and VS Code from my workflow is a protest against the forced integration of AI into these platforms. I’ll be using Kate and Codeberg moving forward.
+I have always been big on collaboration. I'll scan for open issues where I can actively help out, and feel free to jump on any issues I have raised here. I am also open to private project help indie-to-indie support is always free, but corporations can contract me.
 
-Coding has been my passion since I was 8 years old, that isn’t going to stop. As a self‑taught developer, I recognise gaps in my knowledge, so to kick off my Codeberg journey I’ll be completing FreeCodeCamp certifications and projects. The initial repos will serve as proof of competence for my resume.
+> 💼 **Contract Status:** Not accepting contracts at this time
 
-I’ll still maintain my GitHub projects occasionally, but I plan to wind down development there and create new versions of those ideas on Codeberg.
+## 📎 AI Usage
 
-Collaboration is always welcome, but I ask that you respect my **no‑AI policy** moving forward. Save your tokens for your own projects or your job.
+Any repository within this ecosystem that uses AI in any form will be clearly marked at the top of the README with `AI-Used`. 
+
+For the moment, **Pull Requests must not use AI**. If you can't code without it, you don't deserve to code at all. _(Save your tokens we are doing real coding here!)_
+
+---
