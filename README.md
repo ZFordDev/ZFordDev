@@ -18,6 +18,17 @@ My son **TFordDev** will be working with me on some upcoming projects, so expect
 
 ## 🐣 Projects
 
+### 📢 Latest Update
+> **Regarding the “Make a Word editor!” crowd:**  
+> A bunch of people have asked for a full Word‑style editor.  
+> I love the enthusiasm and trust, truly, but listen…  
+> I don’t use traditional word processors, so I wouldn’t even know where to start making one that competes with the giants.  
+> I don’t even *think* in rich text. My brain is basically a `.md` file with legs.  
+> If you need bold, italics, tables, headings, and clean formatting… Markdown already does all of that without yelling at you.  
+> Maybe one day I’ll experiment, but for now the best I can do is recommend [learn markdown](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/).
+
+---
+
 * **[SnapDock](https://github.com/ZFordDev/SnapDock)** – A minimalist Markdown editor. Long-term, stable, and not going anywhere. *(Active)*
   * [Website](https://snapdock.app) | [Documentation](https://docs.snapdock.app)
 
