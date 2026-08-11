@@ -20,10 +20,6 @@ _A minimalist Markdown editor. Long‑term, stable, and not going anywhere._
 * [Website](https://snapdock.app) | [Documentation](https://docs.snapdock.app)
 * now exploring `tauri` and `typescript` rewrite
 
-### **[Crafty-Snap](https://github.com/ZFordDev/Crafty-Snap)** 
-_An automated Snapcraft generator that builds snap packages from your project’s metadata._
-* while i have done a lot of experiments I'm still looking for a reliable method that is reproducible 
-
 ### **[SchedPlus](https://github.com/ZFordDev/SchedPlus)**
 _A simple Python scheduler app built with multiple UIs._
 * this project started as a community learning tool but has evolved to be to complex for new comers, as such im exploring its next chapters potenal as a product.
