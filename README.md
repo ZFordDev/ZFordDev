@@ -2,15 +2,15 @@
 
 # ZFordDev
 
-### _Hi, I'm ZFordDev, Productivity developer._
+### _Hi, I'm ZFordDev — Productivity Developer_
 
 [Website](https://zford.dev) · [Documentation](https://docs.zford.dev)
 
 </div>
 
-## 🤔 About me
+## 🤔 About Me
 
-I have been coding for over two decades. I'm passionate about building tools that make development more efficient and enjoyable. My work often involves writing in Markdown, which is my preferred choice due to its simplicity and readability.
+I have been coding for over two decades, building tools designed to make development more efficient, local-first, and enjoyable. Markdown is my baseline choice for almost everything due to its simplicity and readability.
 
 ## 🎓 Languages
 
@@ -22,41 +22,57 @@ I have been coding for over two decades. I'm passionate about building tools tha
 ## 🐣 Projects
 
 ### **[SnapDock](https://github.com/ZFordDev/SnapDock)**
-_A minimalist Markdown editor. Long‑term, stable, and not going anywhere._
-* [Website](https://snapdock.app) | [Documentation](https://docs.snapdock.app)
-* now exploring `tauri` and `typescript` rewrite
+_A minimalist Markdown editor. Long‑term, stable, and built to last._
+* [Website](https://snapdock.app) · [Documentation](https://docs.snapdock.app/snapdock)
+* *Currently exploring a Tauri + TypeScript rewrite.*
 
-### **[SchedPlus](https://github.com/ZFordDev/SchedPlus)**
-_A simple Python scheduler app built with multiple UIs._
-* this project started as a community learning tool but has evolved to be to complex for new comers, as such im exploring its next chapters potenal as a product.
+### **The Plus Apps**
 
-### **[KeyPlus](https://github.com/ZFordDev/keyplus)**
-_A password manager born entirely out of frustration._
-* I'm not going to pretend this is my area of expertise, from what i can tell the password vault is secure enough. its in the stores already more so to make it easier for me to deploy. 
+* **[AccountPlus](https://github.com/ZFordDev/ZFordDev)**
+  _A local-first invoicing and transaction record system for sole traders._
+  * This app follows the accounts.
+
+* **[SchedPlus](https://github.com/ZFordDev/SchedPlus)**
+  _A simple Python scheduler app built with multiple UIs._
+  * [Website](https://schedplus.app) · [Documentation](https://docs.zford.dev/schedplus)
+  * This app schedules the work.
+
+* **[KeyPlus](https://github.com/ZFordDev/keyplus)**
+  _A password manager born entirely out of frustration._
+  * [Documentation](https://docs.zford.dev/zforddev/keyplus)
+  * This app stores the secrets.
+
+---
 
 ### **[Glint](https://github.com/ZFordDev/Glint)**
-_A Modern Glass‑Rendered Desktop System Monitor_
-* i was requested to make this.
+_A modern, glass‑rendered desktop system monitor._
+* [Documentation](https://docs.zford.dev/zforddev/glint)
+* Windows-only; taking a back seat to prioritize the Plus range.
 
-Yeah, there are a lot of active projects right now. While SnapDock is my baseline, I’m constantly experimenting to find the next big thing. This means plenty of R&D — I don't really choose the projects, they choose themselves. Some will graduate, others will get archived.
+### **[Vitra](https://github.com/ZFordDev/vitra)**
+_A fast, secure, cross-platform clipboard manager._
+* [Documentation](https://docs.zford.dev/zforddev/vitra)
+* Explores what happens when an entire app is vibe-coded to production using offline local LLMs.
 
-## 🗺️ RoadMap!
+> *There are a lot of active projects right now! While SnapDock is my baseline, I’m constantly experimenting to find the next big thing. This means plenty of R&D, I don't really choose the projects, they choose themselves. Some will graduate; others will get archived.*
 
-* Pursue UniSQ - Bachelor of Information Technology (Double Majors: Software Application Development & Networking and Cyber Security)
-* Complete Free Code Camp certifications:
-	+ JavaScript Certification
-	+ Python Certification
-	+ Responsive Web Design Certification
-	+ Front-End Development Libraries Certification
-	+ Back-End Development and APIs Certification
-	+ Relational Databases Certification
-	+ Certified Full-Stack Developer Curriculum
-* Target deeper architecture patterns in **Rust** and **Go**, followed by cloud infrastructure and DevOps specializations.
+## 🗺️ Roadmap
+
+* **UniSQ Degree:** Bachelor of Information Technology (Double Majors: Software Application Development & Networking/Cyber Security)
+* **FreeCodeCamp Certifications:**
+  * JavaScript Certification
+  * Python Certification
+  * Responsive Web Design Certification
+  * Front-End Development Libraries Certification
+  * Back-End Development and APIs Certification
+  * Relational Databases Certification
+  * Certified Full-Stack Developer Curriculum
+* **Architecture & Ops:** Target deeper architecture patterns in **Rust** and **Go**, followed by cloud infrastructure and DevOps specializations.
 
 ## 🤜🤛 Collaboration
 
-I welcome collaboration on my projects. Feel free to contribute or open an issue if you'd like to help.
+I welcome collaboration on any of my active projects. Feel free to contribute or open an issue if you'd like to help out!
 
-> 💼 **Contract Status:** now open to contracts!
+> 💼 **Contract Status:** Open to contracts!
 
 ---
