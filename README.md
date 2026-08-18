@@ -26,6 +26,12 @@ _A minimalist Markdown editor. Long‑term, stable, and built to last._
 * [Website](https://snapdock.app) · [Documentation](https://docs.snapdock.app/snapdock)
 * *Currently exploring a Tauri + TypeScript rewrite.*
 
+### **[DocsHub](https://docs.zford.dev)**
+_The high-performance static documentation platform powering the ZFordDev ecosystem._
+* [Documentation Hub](https://docs.zford.dev)
+* **Architecture (`Wombat` Generation):** Built on Eleventy (11ty), Markdown-it, Tailwind CSS, and zero-server client-side JS.
+* Features document-level semantic versioning, client-side search (Levenshtein distance matching), automated publication manifests, and metadata-driven category discovery.
+
 ### **The Plus Apps**
 
 * **[AccountPlus](https://github.com/ZFordDev/ZFordDev)**
@@ -41,8 +47,6 @@ _A minimalist Markdown editor. Long‑term, stable, and built to last._
   _A password manager born entirely out of frustration._
   * [Documentation](https://docs.zford.dev/zforddev/keyplus)
   * This app stores the secrets.
-
----
 
 ### **[Glint](https://github.com/ZFordDev/Glint)**
 _A modern, glass‑rendered desktop system monitor._
