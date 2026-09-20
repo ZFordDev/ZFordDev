@@ -8,6 +8,11 @@
 
 </div>
 
+> [!IMPORTANT]
+> **I'm still active!** I'm currently under a contract that's taking up most of my time, but I'm still actively working on my projects and plan to meet all original deadlines.
+>   
+> Thanks for understanding!
+
 ## 🤔 About Me
 
 I have been coding for over two decades, building tools designed to make development more efficient, local-first, and enjoyable. Markdown is my baseline choice for almost everything due to its simplicity and readability.
@@ -77,6 +82,8 @@ _A fast, secure, cross-platform clipboard manager._
 
 I welcome collaboration on any of my active projects. Feel free to contribute or open an issue if you'd like to help out!
 
-> 💼 **Contract Status:** Open to contracts!
+> 💼 **Contract Status:** Currently under contract
+
+<!-- Open to contracts! -->
 
 ---
