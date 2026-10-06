@@ -1,14 +1,33 @@
-<div align="center">
-
 # ZFordDev
 
-### _Hi, I'm ZFordDev — I build focused tools that solve real problems._
+```console
+zforddev:~$ whoami
+```
 
-[Website](https://zford.dev) · [Documentation](https://docs.zford.dev)
+Hi, I'm **ZFordDev** - I build focused tools that solve real problems.
 
-</div>
+**[zford.dev](https://zford.dev)** · [YouTube](https://www.youtube.com/@ZFordDev) · [GitHub](https://github.com/ZFordDev)
 
-## 🤔 About Me
+```console
+zforddev:~$ ./build-active --list
+```
+
+| Project | Description | Links |
+|:--|:--|:--|
+| [**SnapDock**](https://github.com/ZFordDev/SnapDock) | A Markdown workspace for Windows and Linux. Local files, project folders, tabs, flexible previews and PDF export. | [Repository](https://github.com/ZFordDev/SnapDock) · [Video](https://www.youtube.com/watch?v=Kial0IJP6Zs) |
+| [**SchedPlus**](https://github.com/ZFordDev/SchedPlus) | A local-first task planner with Basic, Advanced, calendar and CLI workflows. | [Repository](https://github.com/ZFordDev/SchedPlus) · [Video](https://www.youtube.com/watch?v=cBp9AbrHUe8) |
+| [**Glint**](https://github.com/ZFordDev/Glint) | CPU, RAM, storage, GPU, temperatures and network activity in a small translucent desktop HUD. | [Repository](https://github.com/ZFordDev/Glint) · [Video](https://www.youtube.com/watch?v=dZeHdq73dP4) |
+| **Coffee PDF** | A fast, focused PDF reader without the workspace attached. | [Video](https://www.youtube.com/watch?v=7LSkT-hmkQk) |
+| [**SnapBoard**](https://github.com/ZFordDev/SnapBoard) | A minimal, local-first kanban board designed as a companion to SnapDock. | [Repository](https://github.com/ZFordDev/SnapBoard) |
+| [**SnapWord**](https://github.com/ZFordDev/SnapWord) | A local-first word processor that just wants to write. | [Repository](https://github.com/ZFordDev/SnapWord) |
+| **QSVG** | A tiny, fast, native SVG viewer for Windows. | — |
+| **Deskling** | Turn your sprites into tiny desktop companions. | — |
+
+```console
+zforddev:~$ cat about.txt
+```
+
+**🤔 About Me**
 
 I've been coding for over two decades, building software with a focus on simplicity, efficiency, and local-first design.
 
@@ -16,68 +35,36 @@ I like small tools that do one job well. Markdown is my baseline for almost ever
 
 I'm winding down the constant stream of new projects and putting more time into maintaining, polishing, and showcasing the tools I've already built. I'll still ship something new when I find a problem worth solving — just don't expect another SaaS AI wrapper from this developer.
 
-> [!NOTE]
-> As the software landscape changes, I'm expanding my skills with it.
->
-> I've been getting more involved in **video editing, product showcases, and technical documentation** — taking software and finding better ways to explain what it does and why someone might care.
->
-> You can see what I've been working on over on [YouTube](https://www.youtube.com/channel/UCK6KdKULFYQeAIkpfO7S5-w).
->
-> I'm open to contract work for **app showcase videos and technical documentation**. Take a look at my work and judge for yourself.
+> **Note** As the software landscape changes, I'm expanding my skills with it. I've been getting more involved in video editing, product showcases, and technical documentation — taking software and finding better ways to explain what it does and why someone might care. You can see what I've been working on over on [YouTube](https://www.youtube.com/@ZFordDev).
 
-## 🎓 Languages
+I'm open to contract work for app showcase videos and technical documentation. Take a look at my work and judge for yourself.
 
-- Python
-- Rust
-- Go
-- JavaScript / TypeScript
+```console
+zforddev:~$ cat stack.txt
+```
 
-## 🐣 Projects
+Python · Rust · Go · JavaScript / TypeScript
 
-### Open Source
+```console
+zforddev:~$ cat collaboration.txt
+```
 
-#### **[Glint](https://github.com/ZFordDev/Glint)**
-_CPU, RAM, storage, GPU, temperatures, and network activity in a small translucent desktop HUD._
-
-[Documentation](https://docs.zford.dev/zforddev/glint) · [Releases](https://zforddev.github.io/Glint/)
-
-#### **[SnapDock](https://github.com/ZFordDev/SnapDock)**
-_A minimalist Markdown editor. Long-term, stable, and built to last._
-
-[Website](https://snapdock.app) · [Documentation](https://docs.snapdock.app/snapdock)
-
-#### **[SchedPlus](https://github.com/ZFordDev/SchedPlus)**
-_A simple Python scheduler built around multiple interfaces._
-
-[Website](https://schedplus.app) · [Documentation](https://docs.zford.dev/schedplus)
-
-### Free Tools
-
-#### **Coffee_PDF**
-_A fast, focused PDF reader without the workspace attached._
-
-[Itch.io](https://zforddev.itch.io/coffee-pdf) · Documentation _(Coming soon)_
-
-#### **QSVG**
-_A tiny, fast, native SVG viewer for Windows._
-
-[Itch.io](https://zforddev.itch.io/qsvg) · Documentation _(Coming soon)_
-
-#### **Deskling**
-_Turn your sprites into tiny desktop companions._
-
-[Itch.io](https://zforddev.itch.io/deskling) · Documentation _(Coming soon)_
-
-## 🤜🤛 Collaboration
+**🤜🤛 Collaboration**
 
 As of 2026, I'm no longer open to general collaboration pitches.
 
 If you use one of my projects and need help, found a bug, have a useful contribution, or want to improve something that already exists, I'm happy to hear from you.
 
-What I'm **not** interested in is being the name, face, publisher, or distribution channel for someone else's project.
+What I'm not interested in is being the name, face, publisher, or distribution channel for someone else's project.
 
-If your collaboration pitch is essentially **"I'll build it, you put your name on it,"** the answer is no. If I didn't build it, contribute meaningfully to it, or believe it belongs under ZFordDev, I'm not going to publish it under my name.
+If your collaboration pitch is essentially "I'll build it, you put your name on it," the answer is no. If I didn't build it, contribute meaningfully to it, or believe it belongs under ZFordDev, I'm not going to publish it under my name.
 
-I'm still open to genuine collaboration where we're **both actually building something together**, as well as selected paid contract work involving software development, technical documentation, and product showcase videos.
+I'm still open to genuine collaboration where we're both actually building something together, as well as selected paid contract work involving software development, technical documentation, and product showcase videos.
+
+```console
+zforddev:~$ cat status.txt
+```
+
+Maintaining, polishing and showcasing what's above — shipping something new when a real problem shows up.
 
 ---
