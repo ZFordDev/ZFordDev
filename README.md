@@ -2,65 +2,82 @@
 
 # ZFordDev
 
-### _Hi, I'm ZFordDev — Productivity Developer_
+### _Hi, I'm ZFordDev — I build focused tools that solve real problems._
 
 [Website](https://zford.dev) · [Documentation](https://docs.zford.dev)
 
 </div>
 
-> [!NOTE]
-> **I'm still active!** I'm currently under a contract that's taking up most of my time, but I'm still actively working on my projects and plan to meet all original deadlines.
->   
-> Thanks for understanding!
-
 ## 🤔 About Me
 
-I have been coding for over two decades, building tools designed to make development more efficient, local-first, and enjoyable. Markdown is my baseline choice for almost everything due to its simplicity and readability.
+I've been coding for over two decades, building software with a focus on simplicity, efficiency, and local-first design.
+
+I like small tools that do one job well. Markdown is my baseline for almost everything, native and lightweight solutions are preferred where they make sense, and I have very little interest in turning every useful idea into a subscription.
+
+I'm winding down the constant stream of new projects and putting more time into maintaining, polishing, and showcasing the tools I've already built. I'll still ship something new when I find a problem worth solving — just don't expect another SaaS AI wrapper from this developer.
+
+> [!NOTE]
+> As the software landscape changes, I'm expanding my skills with it.
+>
+> I've been getting more involved in **video editing, product showcases, and technical documentation** — taking software and finding better ways to explain what it does and why someone might care.
+>
+> You can see what I've been working on over on [YouTube](https://www.youtube.com/channel/UCK6KdKULFYQeAIkpfO7S5-w).
+>
+> I'm open to contract work for **app showcase videos and technical documentation**. Take a look at my work and judge for yourself.
 
 ## 🎓 Languages
 
-* Python
-* Rust
-* Go
-* JavaScript / TypeScript
+- Python
+- Rust
+- Go
+- JavaScript / TypeScript
 
 ## 🐣 Projects
 
-### **[SnapDock](https://github.com/ZFordDev/SnapDock)**
-_A minimalist Markdown editor. Long‑term, stable, and built to last._
-* [Website](https://snapdock.app) · [Documentation](https://docs.snapdock.app/snapdock)
+### Open Source
 
-### **[SchedPlus](https://github.com/ZFordDev/SchedPlus)**
-_A simple Python scheduler app built with multiple UIs._
-* [Website](https://schedplus.app) · [Documentation](https://docs.zford.dev/schedplus)
+#### **[Glint](https://github.com/ZFordDev/Glint)**
+_CPU, RAM, storage, GPU, temperatures, and network activity in a small translucent desktop HUD._
 
-### **[Glint](https://github.com/ZFordDev/Glint)**
-_CPU, RAM, storage, GPU, temperatures, and network activity live in a small, translucent HUD on your desktop._
-* [Documentation](https://docs.zford.dev/zforddev/glint) · [Releases](https://zforddev.github.io/Glint/)
+[Documentation](https://docs.zford.dev/zforddev/glint) · [Releases](https://zforddev.github.io/Glint/)
 
-## 🗺️ Roadmap
+#### **[SnapDock](https://github.com/ZFordDev/SnapDock)**
+_A minimalist Markdown editor. Long-term, stable, and built to last._
 
-* **UniSQ Degree:** Bachelor of Information Technology (Double Majors: Software Application Development & Networking/Cyber Security)
-* **FreeCodeCamp Certifications:**
-  * [x] JavaScript Certification
-  * [ ] Python Certification
-  * [ ] Responsive Web Design Certification
-  * [ ] Front-End Development Libraries Certification
-  * [ ] Back-End Development and APIs Certification
-  * [ ] Relational Databases Certification
-  * [ ] Certified Full-Stack Developer Curriculum
+[Website](https://snapdock.app) · [Documentation](https://docs.snapdock.app/snapdock)
+
+#### **[SchedPlus](https://github.com/ZFordDev/SchedPlus)**
+_A simple Python scheduler built around multiple interfaces._
+
+[Website](https://schedplus.app) · [Documentation](https://docs.zford.dev/schedplus)
+
+### Free Tools
+
+#### **Coffee_PDF**
+_A fast, focused PDF reader without the workspace attached._
+
+[Itch.io](https://zforddev.itch.io/coffee-pdf) · Documentation _(Coming soon)_
+
+#### **QSVG**
+_A tiny, fast, native SVG viewer for Windows._
+
+[Itch.io](https://zforddev.itch.io/qsvg) · Documentation _(Coming soon)_
+
+#### **Deskling**
+_Turn your sprites into tiny desktop companions._
+
+[Itch.io](https://zforddev.itch.io/deskling) · Documentation _(Coming soon)_
 
 ## 🤜🤛 Collaboration
 
-I welcome collaboration on any of my active projects. Feel free to contribute or open an issue if you'd like to help out!
+As of 2026, I'm no longer open to general collaboration pitches.
 
-> [!IMPORTANT]
-> While I enjoy helping out on external projects, please ensure your request aligns with my area of expertise and includes enough specific detail for me to evaluate. I receive hundreds of messages a week, and I am unable to assist with vague proposals or requests outside my domain. If you are sharing a project or business idea, please provide concrete details upfront so I can assess how I can help.
->
-> Check out https://zford.dev/contract/ for details on how I work.
+If you use one of my projects and need help, found a bug, have a useful contribution, or want to improve something that already exists, I'm happy to hear from you.
 
-> 💼 **Contract Status:** Currently under contract
+What I'm **not** interested in is being the name, face, publisher, or distribution channel for someone else's project.
 
-<!-- Open to contracts! -->
+If your collaboration pitch is essentially **"I'll build it, you put your name on it,"** the answer is no. If I didn't build it, contribute meaningfully to it, or believe it belongs under ZFordDev, I'm not going to publish it under my name.
+
+I'm still open to genuine collaboration where we're **both actually building something together**, as well as selected paid contract work involving software development, technical documentation, and product showcase videos.
 
 ---
