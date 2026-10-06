@@ -14,14 +14,14 @@ zforddev:~$ ./build-active --list
 
 | Project | Description | Links |
 |:--|:--|:--|
-| [**SnapDock**](https://github.com/ZFordDev/SnapDock) | A Markdown workspace for Windows and Linux. Local files, project folders, tabs, flexible previews and PDF export. | [Repository](https://github.com/ZFordDev/SnapDock) · [Video](https://www.youtube.com/watch?v=Kial0IJP6Zs) |
-| [**SchedPlus**](https://github.com/ZFordDev/SchedPlus) | A local-first task planner with Basic, Advanced, calendar and CLI workflows. | [Repository](https://github.com/ZFordDev/SchedPlus) · [Video](https://www.youtube.com/watch?v=cBp9AbrHUe8) |
+| [**SnapDock**](https://github.com/ZFordDev/SnapDock) | A Markdown workspace for Windows and Linux. Local files, project folders, tabs, flexible previews and PDF export. | [Repository](https://github.com/ZFordDev/SnapDock) · [Video](https://www.youtube.com/watch?v=Kial0IJP6Zs) · [Windows Store](https://apps.microsoft.com/detail/9P54JC7GWK1N)  |
+| [**SchedPlus**](https://github.com/ZFordDev/SchedPlus) | A local-first task planner with Basic, Advanced, calendar and CLI workflows. | [Repository](https://github.com/ZFordDev/SchedPlus) · [Video](https://www.youtube.com/watch?v=cBp9AbrHUe8) · [Windows Store](https://apps.microsoft.com/detail/9NSPSF1CVJC8)  |
 | [**Glint**](https://github.com/ZFordDev/Glint) | CPU, RAM, storage, GPU, temperatures and network activity in a small translucent desktop HUD. | [Repository](https://github.com/ZFordDev/Glint) · [Video](https://www.youtube.com/watch?v=dZeHdq73dP4) |
-| **Coffee PDF** | A fast, focused PDF reader without the workspace attached. | [Video](https://www.youtube.com/watch?v=7LSkT-hmkQk) |
+| **Coffee PDF** | A fast, focused PDF reader without the workspace attached. | [Video](https://www.youtube.com/watch?v=7LSkT-hmkQk) · [Itch.io](https://zforddev.itch.io/coffee-pdf) · [Windows Store](https://apps.microsoft.com/detail/9NM96C3LCHR9) |
 | [**SnapBoard**](https://github.com/ZFordDev/SnapBoard) | A minimal, local-first kanban board designed as a companion to SnapDock. | [Repository](https://github.com/ZFordDev/SnapBoard) |
 | [**SnapWord**](https://github.com/ZFordDev/SnapWord) | A local-first word processor that just wants to write. | [Repository](https://github.com/ZFordDev/SnapWord) |
-| **QSVG** | A tiny, fast, native SVG viewer for Windows. | — |
-| **Deskling** | Turn your sprites into tiny desktop companions. | — |
+| **QSVG** | A tiny, fast, native SVG viewer for Windows. | [Itch.io](https://zforddev.itch.io/qsvg) · [Windows Store](https://apps.microsoft.com/detail/9N35XVFJ9TV1) |
+| **Deskling** | Turn your sprites into tiny desktop companions. | [Itch.io](https://zforddev.itch.io/deskling) |
 
 ```console
 zforddev:~$ cat about.txt
