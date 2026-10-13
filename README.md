@@ -1,70 +1,17 @@
 # ZFordDev
 
-```console
-zforddev:~$ whoami
-```
+As of 2026, I no longer see value in open source. Contributions have dried up, and the repositories gaining traction are primarily legacy projects, vanity projects, AI wrappers, or celebrity repos. I want no part of it.
 
-Hi, I'm **ZFordDev** - I build focused tools that solve real problems.
+* **SnapDock** and **Glint** remain active and will continue to receive updates.
+* No new public projects will be posted.
 
-**[zford.dev](https://zford.dev)** · [YouTube](https://www.youtube.com/@ZFordDev) · [GitHub](https://github.com/ZFordDev)
+## Why I'm Stepping Back
 
-```console
-zforddev:~$ ./build-active --list
-```
+The original value of open source was building in the open to collaborate, get help, and share knowledge, while the star system served as a meaningful way to recognize helpful repositories. Today, automated scrapers harvest everything with zero feedback loop. I could build an absolute masterpiece of an application, and tomorrow a "vibe coder" could replicate it entirely via AI without a shred of recognition or attribution.
 
-| Project | Description | Links |
-|:--|:--|:--|
-| [**SnapDock**](https://github.com/ZFordDev/SnapDock) | A Markdown workspace for Windows and Linux. Local files, project folders, tabs, flexible previews and PDF export. | [Repository](https://github.com/ZFordDev/SnapDock) · [Video](https://www.youtube.com/watch?v=Kial0IJP6Zs) · [Windows Store](https://apps.microsoft.com/detail/9P54JC7GWK1N)  |
-| [**SchedPlus**](https://github.com/ZFordDev/SchedPlus) | A local-first task planner with Basic, Advanced, calendar and CLI workflows. | [Repository](https://github.com/ZFordDev/SchedPlus) · [Video](https://www.youtube.com/watch?v=cBp9AbrHUe8) · [Windows Store](https://apps.microsoft.com/detail/9NSPSF1CVJC8)  |
-| [**Glint**](https://github.com/ZFordDev/Glint) | CPU, RAM, storage, GPU, temperatures and network activity in a small translucent desktop HUD. | [Repository](https://github.com/ZFordDev/Glint) · [Video](https://www.youtube.com/watch?v=dZeHdq73dP4) |
-| **Coffee PDF** | A fast, focused PDF reader without the workspace attached. | [Video](https://www.youtube.com/watch?v=7LSkT-hmkQk) · [Itch.io](https://zforddev.itch.io/coffee-pdf) · [Windows Store](https://apps.microsoft.com/detail/9NM96C3LCHR9) |
-| [**SnapBoard**](https://github.com/ZFordDev/SnapBoard) | A minimal, local-first kanban board designed as a companion to SnapDock. | [Repository](https://github.com/ZFordDev/SnapBoard) |
-| [**SnapWord**](https://github.com/ZFordDev/SnapWord) | A local-first word processor that just wants to write. | [Repository](https://github.com/ZFordDev/SnapWord) |
-| **QSVG** | A tiny, fast, native SVG viewer for Windows. | [Itch.io](https://zforddev.itch.io/qsvg) · [Windows Store](https://apps.microsoft.com/detail/9N35XVFJ9TV1) |
-| **Deskling** | Turn your sprites into tiny desktop companions. | [Itch.io](https://zforddev.itch.io/deskling) |
+## Where to Find My Work
 
-```console
-zforddev:~$ cat about.txt
-```
+I have been developing software for 20 years and have no intent to stop.
 
-**🤔 About Me**
-
-I've been coding for over two decades, building software with a focus on simplicity, efficiency, and local-first design.
-
-I like small tools that do one job well. Markdown is my baseline for almost everything, native and lightweight solutions are preferred where they make sense, and I have very little interest in turning every useful idea into a subscription.
-
-I'm winding down the constant stream of new projects and putting more time into maintaining, polishing, and showcasing the tools I've already built. I'll still ship something new when I find a problem worth solving — just don't expect another SaaS AI wrapper from this developer.
-
-> **Note** As the software landscape changes, I'm expanding my skills with it. I've been getting more involved in video editing, product showcases, and technical documentation — taking software and finding better ways to explain what it does and why someone might care. You can see what I've been working on over on [YouTube](https://www.youtube.com/@ZFordDev).
-
-I'm open to contract work for app showcase videos and technical documentation. Take a look at my work and judge for yourself.
-
-```console
-zforddev:~$ cat stack.txt
-```
-
-Python · Rust · Go · JavaScript / TypeScript
-
-```console
-zforddev:~$ cat collaboration.txt
-```
-
-**🤜🤛 Collaboration**
-
-As of 2026, I'm no longer open to general collaboration pitches.
-
-If you use one of my projects and need help, found a bug, have a useful contribution, or want to improve something that already exists, I'm happy to hear from you.
-
-What I'm not interested in is being the name, face, publisher, or distribution channel for someone else's project.
-
-If your collaboration pitch is essentially "I'll build it, you put your name on it," the answer is no. If I didn't build it, contribute meaningfully to it, or believe it belongs under ZFordDev, I'm not going to publish it under my name.
-
-I'm still open to genuine collaboration where we're both actually building something together, as well as selected paid contract work involving software development, technical documentation, and product showcase videos.
-
-```console
-zforddev:~$ cat status.txt
-```
-
-Maintaining, polishing and showcasing what's above — shipping something new when a real problem shows up.
-
----
+* **Games & Indie Projects:** Check [itch.io](https://zforddev.itch.io/) for any released works.
+* **Applications:** Available via the Snap Store and the Windows Store where appropriate.
