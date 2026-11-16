@@ -1,9 +1,7 @@
-<div align="center">
-
 # 👋 Hi, I'm ZFordDev
 
-![Experience](https://img.shields.io/badge/Writing_Bugs_Since-2006-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Still_Coding-brightgreen?style=for-the-badge)
+![Writing Bugs Since 2006](https://img.shields.io/badge/Writing_Bugs_Since-2006-blue?style=for-the-badge)
+![Still Coding](https://img.shields.io/badge/Status-Still_Coding-brightgreen?style=for-the-badge)
 
 *Tap tap.* 🎤
 
@@ -11,71 +9,46 @@
 
 Does anyone actually read these?
 
----
-
-</div>
-
 Well, hello there! I've been writing software for 20 years.
 
 *Yes, I'm old. No, I'm not switching to Vim.*
 
 ## 🚀 Still Making Stuff!
 
-**SnapDock** and **Glint** are alive and kicking.
+I build software because I enjoy solving problems, experimenting with technology, and occasionally discovering that my brilliant 2 AM idea wasn't quite so brilliant.
 
-And yes, I still get ideas at 2 AM that seem brilliant until morning.
+My projects range from desktop applications and productivity tools to terminal games and experiments that probably shouldn't have escaped the workshop.
 
-> [!NOTE]
-> I'm stepping back from publishing **new open-source projects**.
->
-> Why? Glad you asked. Even if you didn't.
+Some projects are open source. Some aren't.
 
-## 💬 Open Source. We Need to Talk.
+There's no grand philosophy behind every release decision. Sometimes I want to share the code, sometimes I'm building a commercial product, and sometimes I'm just seeing whether something works.
 
-I love open source. I fork, star, report bugs, and occasionally fix them.
+## 🛠️ Featured Projects
 
-*Revolutionary stuff, I know.*
+- **[SnapDock](https://github.com/ZFordDev/SnapDock)** — A desktop application focused on practical functionality without unnecessary bloat.
+- **[Glint](https://github.com/ZFordDev/Glint)** — A lightweight desktop HUD.
+- **[SchedPlus](https://github.com/ZFordDev/SchedPlus)** — Scheduling and productivity software.
+- **[FIFO Tasker](https://github.com/ZFordDev/fifo-tasker)** — An experiment in task management.
+- **[ASCII Fortress](https://github.com/ZFordDev/ASCII-Fortress)** — Because sometimes a terminal is all the graphics you need.
 
-But things have changed.
+## 💭 A Few Thoughts on Software
 
-> [!WARNING]
-> 🤖 Scraper finds your code.
->
-> 🧠 AI reads your code.
->
-> 💻 Someone gets a working solution.
->
-> 🦗 You get crickets.
->
-> Not even a lousy fridge magnet.
+I like software that's practical, efficient, and respectful of its users.
 
-**I don't mind people using my code.** That's literally the point!
+Give me local functionality over mandatory cloud accounts, understandable code over unnecessary complexity, and applications that do their job without demanding half your system resources.
 
-But a star? A mention? A link?
+I support open source, but I also believe developers deserve recognition for their work.
 
-Would it kill us to remember who wrote it?
+If you find something useful, a star, contribution, bug report, or simple mention goes a long way.
 
-I'm not quitting development or abandoning existing projects. Just reconsidering where I publish new ones.
+## 🌐 Elsewhere
 
-## 🎯 Find My Stuff
+**[zford.dev](https://zford.dev)** — The main website, products, updates, and everything else.
 
-[![itch.io](https://img.shields.io/badge/itch.io-Games_%26_Apps-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://zforddev.itch.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZFordDev)
+**[itch.io](https://zforddev.itch.io/)** — Applications, games, and experiments.
 
-Also available on the Snap Store and Microsoft Store where appropriate.
+Some applications are also available through the Snap Store and Microsoft Store.
 
 ---
 
-<div align="center">
-
-### ⭐ One Last Thing
-
-Found a small open-source project you like?
-
-**Go give it a star.**
-
-*Seriously. It takes two seconds.*
-
-*Mic drop.* 🎤
-
-</div>
+*Still coding. Still experimenting. Still occasionally breaking things.* 🎤
