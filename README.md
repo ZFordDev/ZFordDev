@@ -1,3 +1,30 @@
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="600">
+        <h3>🎄 Going on Holidays!</h3>
+        <img src="https://img.shields.io/badge/Holidays-14%20Dec%202026-red?style=for-the-badge" alt="Upcoming Holidays" />
+        <img src="https://img.shields.io/badge/Returning-11%20Jan%202027-green?style=for-the-badge" alt="Returning 11 January 2027" />
+        <br /><br />
+        <p>
+          I'll be taking my annual Christmas holidays from <strong>14 December 2026</strong>, returning on <strong>11 January 2027</strong>.
+        </p>
+        <p>
+          Development, releases, and responses to issues and pull requests will slow down during this period. I might drop by occasionally, but I'll officially be off the clock.
+        </p>
+        <p>
+          Thanks to everyone who has supported, contributed to, and used my projects throughout 2026.
+        </p>
+        <p>
+          <strong>Merry Christmas and Happy New Year!</strong>
+          <br />~ ZFordDev
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 # 👋 Hi, I'm ZFordDev
 
 ![Writing Bugs Since 2006](https://img.shields.io/badge/Writing_Bugs_Since-2006-blue?style=for-the-badge)
